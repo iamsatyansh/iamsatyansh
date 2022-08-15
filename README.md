@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyansh Sharma</h1>
-<h3 align="center">I am Satyansh Sharma from Punjab. About my qualification: I have done my 10th with 85% &12th with 74.8% from board CBSE in the year 2021. Currently, pursuing my B.tech. in CSE . Well come on my strength I always take steps when I confirm firstly everything and I am a smart worker. I think this is my strength.</h3>
+<h3 align="center">I am Satyansh Sharma from Punjab. About my qualification: I have done my 10th with 85% &12th with 74.8% from board CBSE in the year 2021. Currently, pursuing my B.tech. in ECE . Well come on my strength I always take steps when I confirm firstly everything and I am a smart worker. I think this is my strength.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsatyansh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsatyansh" /> </p>
 
