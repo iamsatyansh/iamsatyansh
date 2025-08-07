@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Satyansh Sharma 👋</h1>
   <h3>Software Engineer | AI & Machine Learning Enthusiast</h3>
   <p>Building intelligent solutions to solve real-world problems.</p>
-  <a href="mailto:satyanshshrma@gmail.com"><strong>satyanshshrma@gmail.com</strong></a>
+  
 </div>
 
 ---
